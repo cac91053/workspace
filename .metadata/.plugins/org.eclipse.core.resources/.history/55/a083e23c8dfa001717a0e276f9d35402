@@ -1,0 +1,23 @@
+package edu.fju.exam.VendingMachine;
+
+import java.util.Scanner;
+
+public class VendingMachine {
+
+	public static void main(String[] args) {
+		int price = 0;
+	
+			System.out.println(price);
+			Scanner scanner = new Scanner(System.in);
+			String line = scanner.nextLine();
+			int money = Integer.parseInt(line);
+
+						
+			
+			
+		}
+
+
+
+
+}
